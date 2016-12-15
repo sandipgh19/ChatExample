@@ -83,7 +83,8 @@ public class MainActivity extends AppCompatActivity {
 
                 // Set the child's data to the value passed in from the text box.
                 childRef.setValue(text.getText().toString());
-                text.setText("");
+                String data="";
+                text.setText(data);
 
             }
         });
