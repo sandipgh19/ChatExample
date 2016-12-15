@@ -1,9 +1,9 @@
 # Chat Application  
-###chat application simple app based chat system where no login ,registration system.
+###Chat application simple app based chat system where no login/registration required.
 ###No material design
 ###No LOGIN/REGISTRATION system.
 ###No extra permission required.
-###simple type `message` and click on `Add New Item`.
-###you can see the message in a list view.
-###download and install the app in your android mobile phone.
-###use and enjoy the chat.
+###Simple type `message` and click on `Add New Item`.
+###You can see the message in a list view.
+###Download and install the app in your android mobile phone.
+###Use and enjoy the chat.
